@@ -8,6 +8,7 @@ I have built this Pokedex API version using an HHTP Request method for calling t
 The Pokemon Model utilizes the latest SwiftUI and iOS 15 capabilities with async.
 
 
+
     Pokedex
 
 
@@ -17,8 +18,7 @@ The Pokemon Model utilizes the latest SwiftUI and iOS 15 capabilities with async
     Pokedex Screenshots
     
 
-<img src="https://user-images.githubusercontent.com/84573770/136012051-c4616391-ae4d-4f2d-a2f7-4679c517439a.png" alt="Pokedex API" width="300" height="650">
-<img src="https://user-images.githubusercontent.com/84573770/136012005-6b871614-1bd5-4a90-8b2f-93d8275bb2bc.png" alt="Pokedex API Dark" width="300" height="650">!
+<img src="https://user-images.githubusercontent.com/84573770/136012051-c4616391-ae4d-4f2d-a2f7-4679c517439a.png" alt="Pokedex API" width="300" height="650"> <img src="https://user-images.githubusercontent.com/84573770/136012005-6b871614-1bd5-4a90-8b2f-93d8275bb2bc.png" alt="Pokedex API Dark" width="300" height="650">
 
 
 
