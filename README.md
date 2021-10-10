@@ -3,7 +3,7 @@
 
 # Pokedex API
 
-I have built this Pokedex API version using an HHTP Request method for calling the pokedex items from a firebaseio json database, and parsing it using Paw. I have utilized Kingfisher package to parse the image data to ensure the smooth transition using builtin cacheing. 
+I have built this Pokedex API version using an HTTP Request method for calling the pokedex items from a firebaseio json database, and parsing it using Paw. I have utilized Kingfisher package to parse the image data to ensure the smooth transition using builtin cacheing. 
 
 The Pokemon Model utilizes the latest SwiftUI and iOS 15 capabilities with async.
 
