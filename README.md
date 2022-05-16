@@ -12,7 +12,7 @@ The Pokemon Model utilizes the latest SwiftUI and iOS 15 capabilities with async
     Pokedex
 
 
-<img src="https://user-images.githubusercontent.com/84573770/136012030-e5b75193-acda-420b-baad-0baa3e652a16.mov" alt="Pokedex API" width="300" height="650">  
+https://user-images.githubusercontent.com/84573770/136012030-e5b75193-acda-420b-baad-0baa3e652a16.mov
 
 
     Pokedex Screenshots
